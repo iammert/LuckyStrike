@@ -9,9 +9,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:layout_margin="@dimen/material_keylines_screen_edge_margin"
         android:gravity="center_horizontal"
         android:textColor="@android:color/white"
-        android:textSize="@dimen/material_typography_display2" />
+        android:textSize="@dimen/material_text_display2" />
 
 </RelativeLayout>
